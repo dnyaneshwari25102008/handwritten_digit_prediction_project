@@ -4,6 +4,7 @@ import sklearn
 import streamlit as st
 import matplotlib as plt
 import imblearn 
+import cv2
 
 print(np.__version__)
 print(pd.__version__)
@@ -11,3 +12,4 @@ print(sklearn.__version__)
 print(st.__version__)
 print(plt.__version__)
 print(imblearn.__version__)
+print(cv2.__version__)
