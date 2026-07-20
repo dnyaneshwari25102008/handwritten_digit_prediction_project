@@ -1,7 +1,10 @@
+streamlit
 numpy
 pandas
 scikit-learn
-streamlit
 matplotlib
-imbalanced-learn
 opencv-python-headless
+streamlit-drawable-canvas
+tensorflow
+pillow
+rich
